@@ -1,0 +1,118 @@
+# python
+
+python official website:
+
+Part 1 About:
+1.Applications
+2.Quotes
+3.Getting started
+4.Help
+5.Python Brochure
+
+Part 2 downloads:
+6.All releases
+7.Source code
+8.Windows
+9.macOS
+10.Other platforms
+11.License
+12.Alternative Implementations
+
+Part 3 documentation:
+13.Docs
+14.Audio/Visual Talks
+15.Beginner's guide
+16.Developer's guide
+17.FAQ
+18.Non-English Docs
+19.PEP Index
+20.Python Books
+21.Python Essays
+
+Part 4 Community:
+22.Diversity
+23.Mailing Lists
+24.IRC
+25.Forums
+26.PSF Annual Impact Report
+27.Python Conferences
+Special Interest Groups
+Python Logo
+Python Wiki
+Merchandise
+Community Awards
+Code of Conduct
+Get Involved
+Shared Stories
+5.Success Stories
+Arts
+Business
+Education
+Engineering
+Government
+Scientific
+Software Development
+6.News
+
+Python News
+PSF newsletter
+Community News
+PSF News
+PyCon News
+
+7.Events
+Python Events
+User Group Events
+Python Events Archive
+User Group Events Archive
+Submit an Event
+
+8.Contributing
+Developer's Guide
+Issue Tracker
+python-dev list
+Core Mentorship
+Report a Security Issue
+
+
+
+About:
+Tweets by @ThePSF
+Python Software Foundation@The PSF
+Check out this great No starch Press@humble deal for some awesome python titles!
+You may even recognize some of the author names from their talks at#PyConUS2022
+
+Applications:
+Python is used in many application domains.Here's a sampling.
+The Python Package Index lists thousands of third party modules for Python.
+
+😢Web and Internet Development
+Python offers many choices for web development:
+
+Frameworks such as Django and Pyramid.
+Micro-frameworks such as Django and Pyramid.
+Advanced content management systems such as Plone and django CMS.
+
+Python's standard library suppots many Internet protocols:
+
+HTML and XML
+JSON
+E-mail processing.
+Support for FTP,IMAP,and other Interent protocols.
+Easy-to-usse socket interface.
+
+And the Package Index has yet more libraries:
+Requests:a powerful HTTP client library.
+Beautiful Soap:an HTML parser that can handle all sorts of oddball HTML.
+Feedparser:for parsing RSS/Atom feeds.
+Paramiko:implementing the SSH2 protocol.
+Twisted Python:a framework for asynchronous network praogramming.
+
+
+Scientific and Numeric
+
+
+
+
+
+
