@@ -110,6 +110,41 @@ Twisted Python:a framework for asynchronous network praogramming.
 
 
 Scientific and Numeric
+python is widely used in scientific and numeric computing:
+
+Scipy is collection of packages for mathematics,science,and engineering.
+Pandas is a data analysis and modeling libarary.Pandas是一个数据分析和建模库。
+IPython is a powerful interactive shell that features easy editing and recording of
+a work session,and supports visualization and parallel computing.
+
+Education
+Python is a superb language for teachig programming,both at the introductory level and in more
+advanced courses.
+
+
+Books such as How to Think like a Computer  Scientist,Python Programming:An Introduction to Computer
+Science,and Practical Programming.
+The Education Special Interest Group is a good place to discuss teaching issues.
+
+Desktop GUIs
+The Tk GUI library is included with most binary distributions of Python.
+Some tookits that are usable on several platforms are avalable seperately:
+
+wxWidgets
+Kivy,for writing multitouch applications.
+Qt via pyqt or pyside
+Platform-specific toolkits are also available:
+GTK+
+Microsoft Foundation Classes through the win32 extensions
+
+
+Software Development
+Python is often used as a support language for software developers,
+for build control and managemtn,testing,and in many other ways.
+
+SCons for build control
+
+
 
 
 
